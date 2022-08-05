@@ -4,8 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-## yg331 블로그
-
 일렉기타로 시작해서 믹싱 공부하는 사람.
 
 * 사용하는 기타;
