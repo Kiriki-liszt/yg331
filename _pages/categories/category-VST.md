@@ -1,9 +1,10 @@
 ---
 title: "VST 플러그인"
 layout: archive
-permalink: categories/vst
+permalink: /categories/vst/
 author_profile: true
-sidebar_categories: true
+sidebar:
+  nav: "docs"
 ---
 
 
