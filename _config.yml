@@ -288,6 +288,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "docs"
       read_time: false
       show_date: true
       comments: # true
@@ -300,6 +302,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "docs"
       read_time: false
       comments: false
       share: true
