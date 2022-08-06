@@ -42,7 +42,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 
 테스트해본 (무료)플러그인들 – iZotope는 최근 한 달간 무료로 풀린 적이 많아서 넣어봤습니다. 
 
-[8cb17843a1ff41e658877e4ff7360f8a.png](https://upload.tgd.kr/20210602/8cb17843a1ff41e658877e4ff7360f8a.png)
+![키보드 사진](https://devinlife.com/assets/images/bio-photo-keyboard-small.jpg "내 키보드 사진"){: .align-center}
 ![플러그인 목록](https://upload.tgd.kr/20210602/8cb17843a1ff41e658877e4ff7360f8a.png "플러그인 목록"){: .align-center}
 
 |      제조사      	|     이름     	| samples 	|                                          비고                                         	|
