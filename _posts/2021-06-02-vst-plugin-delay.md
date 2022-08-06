@@ -43,7 +43,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 
 테스트해본 (무료)플러그인들 – iZotope는 최근 한 달간 무료로 풀린 적이 많아서 넣어봤습니다. 
 
- <table class="center">
+<center>
 |      제조사      	|     이름     	| samples 	|                                          비고                                         	|
 |:----------------:	|:------------:	|:-------:	|:-------------------------------------------------------------------------------------:	|
 |        OBS       	|    RNNoise   	|    0    	| OBS에서 사용하는 잡음 제거의 VST 버전                                                 	|
@@ -63,7 +63,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 |        TDR       	|  VOS SlickEQ 	|   183   	|                                                                                       	|
 |   Denis Tihanov  	|   OrilRiver  	|    0    	|                                                                                       	|
 |       GVST       	|     GSnap    	|   481   	|                                                                                       	|
-</table>
+</center>
 
 iZotope의 경우 RX 시리즈는 딜레이가 없지만 이외의 경우 상당한 딜레이가 포함됩니다. 
 
