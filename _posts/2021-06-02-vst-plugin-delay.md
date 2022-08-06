@@ -62,8 +62,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 |        TDR       	|  Kotelnikov  	|   184   	|                                                                                       	|
 |        TDR       	|  VOS SlickEQ 	|   183   	|                                                                                       	|
 |   Denis Tihanov  	|   OrilRiver  	|    0    	|                                                                                       	|
-|       GVST       	|     GSnap    	|   481   	|                                                                                       	| {: .align-center}
-{: .align-center}
+|       GVST       	|     GSnap    	|   481   	|                                                                                       	| 
 
 
 
