@@ -10,5 +10,5 @@ sidebar:
 
 {% assign posts = site.categories.VST %}
 {% for post in posts %} 
-  {% include archive-single.html type=entries_layout %} 
+  {% include archive-single-custom.html type=entries_layout %} 
 {% endfor %}
