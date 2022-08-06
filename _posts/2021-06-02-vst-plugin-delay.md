@@ -1,6 +1,6 @@
 ---
 title:   "[VST] 플러그인에 따라 발생하는 딜레이 차이"
-excerpt: "REAPER"를 사용해서 플러그인마다 걸리는 샘플 확인"
+excerpt: "REAPER를 사용해서 플러그인마다 걸리는 샘플 확인"
 date:  2021-06-02 19:19:47
 
 classes: wide
