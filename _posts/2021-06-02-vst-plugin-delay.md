@@ -95,7 +95,8 @@ LoodMax랑 D16 Frontier, Ozone같은 맥시마이저 계열도 은근 레이턴�
 
 ReaStream 딜레이 테스트 - 1
 
-e29e43b8c7bf0e074c19c1e06042c5ce.png
+![]({{ site.url }}{{ site.baseurl }}assets/images/post_images/2021-06-02-vst-plugin-delay/e29e43b8c7bf0e074c19c1e06042c5ce.png){: .align-center}  
+
 
 가끔 OBS랑 다른 프로그램끼리 연결하거나 할 때 가끔 사용되는 플러그인입니다. REAPER  내부에서 트랙끼리 보내는 상황입니다. 512 samples, 12ms 정도 나타납니다.
 
