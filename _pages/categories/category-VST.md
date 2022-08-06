@@ -8,4 +8,4 @@ sidebar_categories: true
 
 
 {% assign posts = site.categories.VST %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% for post in posts %} {% include archive-single-custom.html type=page.entries_layout %} {% endfor %}
