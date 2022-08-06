@@ -10,3 +10,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: music
+    children:
+      - title: "VST"
+        url: VST/
+        category: "VST"
+      - title: "music_tech"
+        url: music_tech/
+        category: "music_tech"
+  - title: coding
+    children:
+      - title: "C_C++"
+        url: c_cpp/
+        category: "C_C++"
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"
