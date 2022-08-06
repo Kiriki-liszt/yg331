@@ -110,7 +110,7 @@ ReaStream 딜레이 테스트 – 2
 실제로 프로그램 사이에서 테스트해본 결과입니다. REAPER -> OBS -> REAPER로 라우팅해서 테스트해보니 무려
 
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/01b6aa9c78abe3d2d207094d8f00a581.png){: width="50%" .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/01b6aa9c78abe3d2d207094d8f00a581.png){: width="60%" .align-center}  
 
 9600 samples......... 0.2초......
 
