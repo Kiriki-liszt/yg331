@@ -12,11 +12,11 @@ header:
     provider: # youtube
 
 categories:
-  - 플러그인
+  - VST
 
 tags:
   - REAPER
-  - 플러그인
+  - VST
   - sample delay compensation
 
 
