@@ -3,7 +3,7 @@ title: "VST 플러그인"
 layout: archive
 permalink: categories/vst
 author_profile: true
-sidebar_main: true
+sidebar_categories: true
 ---
 
 
