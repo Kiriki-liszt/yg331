@@ -15,7 +15,7 @@ docs:
   - title: music
     children:
       - title: "VST"
-        url: VST/
+        url: /categories/VST/
         category: "VST"
       - title: "music_tech"
         url: music_tech/
