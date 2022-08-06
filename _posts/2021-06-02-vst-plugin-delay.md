@@ -15,7 +15,9 @@ categories:
   - 플러그인
 
 tags:
-  - 
+  - REAPER
+  - 플러그인
+  - sample delay compensation
 
 
 # YYYY-MM-DD HH:MM:SS +/-TTTT 
