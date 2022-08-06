@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
 ---
 
 일렉기타로 시작해서 믹싱 공부하는 사람.
