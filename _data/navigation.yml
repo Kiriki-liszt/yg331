@@ -18,7 +18,7 @@ docs:
         url: /categories/VST/
         category: "VST"
       - title: "music_tech"
-        url: music_tech/
+        url: /categories/music_tech/
         category: "music_tech"
   - title: coding
     children:
