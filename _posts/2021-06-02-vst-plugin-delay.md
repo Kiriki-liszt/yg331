@@ -44,7 +44,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 
 레이턴시가 나온다면 타이밍이 중요한 노래 방송에는 사용하기 힘든 플러그인이라 보시면 되겠습니다. 물론 최종 출력 MIX BUS에 걸어버리면 트랙들 간에 딜레이 신경 안 써도 되니까 사용해도 되겠죠. 아니면 모든 트랙에 똑같이 걸어버릴 수도 있겠으나 그러면 본인 목소리 모니터링 시 딜레이가 발생하니까 그냥그냥 하네요. 이건 각자 세팅에 따라 봐 가면서 사용하시면 될 것 같습니다. 
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/8cb17843a1ff41e658877e4ff7360f8a.png){: width="20%" .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/8cb17843a1ff41e658877e4ff7360f8a.png){: width="30%" .align-center}  
 
 테스트해본 (무료)플러그인들 – iZotope는 최근 한 달간 무료로 풀린 적이 많아서 넣어봤습니다. 
   
