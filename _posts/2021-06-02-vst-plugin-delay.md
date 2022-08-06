@@ -44,7 +44,7 @@ TBProAudio에서 개발한 ABLevelMatchingJSFX를 사용하면 본인이 직접 
 
 레이턴시가 나온다면 타이밍이 중요한 노래 방송에는 사용하기 힘든 플러그인이라 보시면 되겠습니다. 물론 최종 출력 MIX BUS에 걸어버리면 트랙들 간에 딜레이 신경 안 써도 되니까 사용해도 되겠죠. 아니면 모든 트랙에 똑같이 걸어버릴 수도 있겠으나 그러면 본인 목소리 모니터링 시 딜레이가 발생하니까 그냥그냥 하네요. 이건 각자 세팅에 따라 봐 가면서 사용하시면 될 것 같습니다. 
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/8cb17843a1ff41e658877e4ff7360f8a.png){:  width="50%" .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/8cb17843a1ff41e658877e4ff7360f8a.png){: width="20%" .align-center}  
 
 테스트해본 (무료)플러그인들 – iZotope는 최근 한 달간 무료로 풀린 적이 많아서 넣어봤습니다. 
   
@@ -95,7 +95,7 @@ LoodMax랑 D16 Frontier, Ozone같은 맥시마이저 계열도 은근 레이턴�
 
 ReaStream 딜레이 테스트 - 1
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/e29e43b8c7bf0e074c19c1e06042c5ce.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/e29e43b8c7bf0e074c19c1e06042c5ce.png){: width="90%" .align-center}  
 
 
 가끔 OBS랑 다른 프로그램끼리 연결하거나 할 때 가끔 사용되는 플러그인입니다. REAPER  내부에서 트랙끼리 보내는 상황입니다. 512 samples, 12ms 정도 나타납니다.
@@ -105,12 +105,12 @@ ReaStream 딜레이 테스트 - 1
 ReaStream 딜레이 테스트 – 2
 
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/5c49e04ef4b1201eb06b2ddcc4e2e179.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/5c49e04ef4b1201eb06b2ddcc4e2e179.png){: width="50%" .align-center}  
 
 실제로 프로그램 사이에서 테스트해본 결과입니다. REAPER -> OBS -> REAPER로 라우팅해서 테스트해보니 무려
 
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/01b6aa9c78abe3d2d207094d8f00a581.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2021-06-02-vst-plugin-delay/01b6aa9c78abe3d2d207094d8f00a581.png){: width="50%" .align-center}  
 
 9600 samples......... 0.2초......
 
