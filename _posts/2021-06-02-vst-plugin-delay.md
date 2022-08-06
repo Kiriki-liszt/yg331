@@ -1,6 +1,9 @@
 ---
 title:   "[VST] 플러그인에 따라 발생하는 딜레이 차이"
-excerpt: ""
+excerpt: "REAPER"를 사용해서 플러그인마다 걸리는 샘플 확인"
+date:  2021-06-02 19:19:47
+
+classes: wide
 
 header:
   teaser: # "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
@@ -9,12 +12,12 @@ header:
     provider: # youtube
 
 categories:
-  - Blog
+  - 플러그인
 
 tags:
-  - Blog
+  - 
 
-date:  2021-06-02 19:19:47
+
 # YYYY-MM-DD HH:MM:SS +/-TTTT 
 # hours, minutes, seconds, and timezone offset are optional.
 
