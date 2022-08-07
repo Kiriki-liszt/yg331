@@ -18,7 +18,7 @@ categories:
 tags:
   - compressor
 
-last_modified_at: # 2019-04-13T08:06:00-05:00 YYYY-MM-DD HH:MM:SS +/-TTTT : hours, minutes, seconds, and timezone offset are optional.
+# last_modified_at: # 2019-04-13T08:06:00-05:00 YYYY-MM-DD HH:MM:SS +/-TTTT : hours, minutes, seconds, and timezone offset are optional.
 
 ---
 
