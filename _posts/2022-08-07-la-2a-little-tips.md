@@ -1,7 +1,7 @@
 ---
 title:   "VST - LA-2A 컴프레서와 관련된 작은 사실들"
 excerpt: ""
-date:  2022-08-07T13:12:05+0000
+date:  2022-08-07T13:12:05Z
 
 classes: wide
 
