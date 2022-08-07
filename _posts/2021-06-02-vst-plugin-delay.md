@@ -1,5 +1,5 @@
 ---
-title:   "[VST] 플러그인에 따라 발생하는 딜레이 차이"
+title:   "플러그인에 따라 발생하는 딜레이 차이"
 excerpt: "REAPER를 사용해서 플러그인마다 걸리는 샘플 확인"
 date:  2021-06-02T19:19:47+0900
 header:
@@ -15,12 +15,6 @@ tags:
   - REAPER
   - VST
   - sample delay compensation
-
-
-# YYYY-MM-DD HH:MM:SS +/-TTTT 
-# hours, minutes, seconds, and timezone offset are optional.
-
-# last_modified_at: 2019-04-13T08:06:00-05:00
 
 ---
 
