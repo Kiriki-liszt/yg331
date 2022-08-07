@@ -41,7 +41,7 @@ LA-2A만의 두 특징 중 하나는 바로 입력에 따라 어택과 릴리즈
 
 사진
 
-https://www.uaudio.de/webzine/2004/february/index2.html 에서 가져온 사진과 입출력 비율을 맞춘 그림이다.  
+<https://www.uaudio.de/webzine/2004/february/index2.html>에서 가져온 사진과 입출력 비율을 맞춘 그림이다.  
 이로부터 알 수 있듯이 Soft knee와 평균적으로 4:1의 Ratio를 가지고 있지만 저음에서는 3.3:1, 고음에서는 대략 5.5:1까지 Ratio가 높아진다.  
 이러한 비선형적 반응이 이 LA-2A만의 특징을 나타낸다.  
 
