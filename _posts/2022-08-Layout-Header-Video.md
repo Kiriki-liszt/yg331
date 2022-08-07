@@ -6,7 +6,6 @@ header:
     provider: youtube
 categories:
   - Layout
-  - Uncategorized
 tags:
   - video
   - layout
