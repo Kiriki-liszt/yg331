@@ -1,15 +1,7 @@
 ---
 title:   "VST - LA-2A 컴프레서와 관련된 작은 사실들"
-excerpt: ""
-date:  2022-08-07T13:12:05Z
-
-classes: wide
-
-header:
-  teaser: # "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
-  video:
-    id: # -PVofD2A9t8
-    provider: # youtube
+excerpt: "465"
+date:  2022-08-04T13:12:05+0900
 
 categories:
   - VST
@@ -18,12 +10,6 @@ tags:
   - microphone
   - VST
   - noise
-
-
-# YYYY-MM-DD HH:MM:SS +/-TTTT 
-# hours, minutes, seconds, and timezone offset are optional.
-
-# last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 LA-2A
