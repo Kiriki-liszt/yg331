@@ -1,7 +1,7 @@
 ---
-title:   "[VST] LA-2A 컴프레서와 관련된 작은 팁"
+title:   "VST - LA-2A 컴프레서와 관련된 작은 사실들"
 excerpt: ""
-date:  2022-08-07 12:00:00
+date:  2022-08-07 13:12:05
 
 classes: wide
 
@@ -13,13 +13,17 @@ header:
 
 categories:
   - VST
-  - compressor
 
 tags:
-  - compressor
+  - microphone
+  - VST
+  - noise
 
-# last_modified_at: # 2019-04-13T08:06:00-05:00 YYYY-MM-DD HH:MM:SS +/-TTTT : hours, minutes, seconds, and timezone offset are optional.
 
+# YYYY-MM-DD HH:MM:SS +/-TTTT 
+# hours, minutes, seconds, and timezone offset are optional.
+
+# last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 # LA-2A
