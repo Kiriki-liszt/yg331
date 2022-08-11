@@ -13,14 +13,13 @@ main:
 
 docs:
   - title: VST
-    url: /categories/VST/
     children:
     - title: "compressor"
       url: /categories/VST/compressor/
       category: "compressor"
-      - title: "eq"
-      url: /categories/VST/eq/
-      category: "eq"
+    - title: "EQ"
+      url: /categories/VST/EQ/
+      category: "EQ"
   - title: "music_tech"
     url: /categories/music_tech/
     category: "music_tech"
