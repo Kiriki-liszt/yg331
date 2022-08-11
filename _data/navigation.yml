@@ -12,21 +12,18 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: music
+  - title: VST
+    url: /categories/VST/
     children:
-      - title: "VST"
-        url: /categories/VST/
-        category: "VST"
-        children: 
-          - title: "compressor"
-            url: /categories/VST/compressor/
-            category: "compressor"
-            - title: "eq"
-            url: /categories/VST/eq/
-            category: "eq"
-      - title: "music_tech"
-        url: /categories/music_tech/
-        category: "music_tech"
+    - title: "compressor"
+      url: /categories/VST/compressor/
+      category: "compressor"
+      - title: "eq"
+      url: /categories/VST/eq/
+      category: "eq"
+  - title: "music_tech"
+    url: /categories/music_tech/
+    category: "music_tech"
   - title: coding
     children:
       - title: "C_C++"
