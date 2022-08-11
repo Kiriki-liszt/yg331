@@ -20,9 +20,9 @@ docs:
     - title: "EQ"
       url: /categories/VST/EQ/
       category: "EQ"
-  - title: "music_tech"
-    url: /categories/music_tech/
-    category: "music_tech"
+  - title: "music-tech"
+    url: /categories/music-tech/
+    category: "music-tech"
   - title: coding
     children:
       - title: "C_C++"
