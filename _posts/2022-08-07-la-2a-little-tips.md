@@ -1,6 +1,6 @@
 ---
 title:   "LA-2A 컴프레서와 관련된 작은 사실들"
-excerpt: "LA-2A의 어랙과 릴리즈, Ratio에 관한 이야기"
+excerpt: "LA-2A의 어택과 릴리즈, Ratio에 관한 이야기"
 date:  2022-08-07 13:12:05 +0900
 
 categories:
