@@ -5,7 +5,7 @@ date:  2022-08-11 00:12:05 +0900
 
 categories:
   - VST
-  - eq
+  - EQ
 
 tags:
   - analog
