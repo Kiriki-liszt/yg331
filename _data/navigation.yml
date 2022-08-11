@@ -17,6 +17,13 @@ docs:
       - title: "VST"
         url: /categories/VST/
         category: "VST"
+        children: 
+          - title: "compressor"
+            url: /categories/VST/compressor/
+            category: "compressor"
+            - title: "eq"
+            url: /categories/VST/eq/
+            category: "eq"
       - title: "music_tech"
         url: /categories/music_tech/
         category: "music_tech"
@@ -25,8 +32,3 @@ docs:
       - title: "C_C++"
         url: c_cpp/
         category: "C_C++"
-  - title: Etc
-    children:
-      - title: "Jekyll"
-        url: jekyll/
-        category: "jekyll"
