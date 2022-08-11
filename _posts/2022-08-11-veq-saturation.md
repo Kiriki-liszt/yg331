@@ -1,7 +1,7 @@
 ---
 title:   "WAVES V-EQ saturation"
 excerpt: "V-EQ의 THD"
-date:  2022-08-11 13:12:05 +0900
+date:  2022-08-11 00:12:05 +0900
 
 categories:
   - VST
