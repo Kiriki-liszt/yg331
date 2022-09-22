@@ -22,7 +22,8 @@ tags:
 
 ## SONNOX Oxford Inflator  
   
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator-V3-gui2.jpg){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator-V3-gui2.jpg){: .align-center}  
+
 
 최근 메인으로 쓰는 노트북에 리눅스를 듀얼부팅으로 구성하다가 뭘 잘못 건드렸는지 와이파이 모듈이 자꾸 에러를 뿜으며 잘 붙지 않게 되었다.  
 두달간 다섯번정도 C드라이브를 밀고 재설치한 것 같다.  
@@ -49,30 +50,30 @@ inflator의 작동원리를 알아냈고, 카피하는 데 성공했다는 것�
 
 ## 특징 분석  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator default.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator dynamics.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator effect100.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator THD.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator default.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator dynamics.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator effect100.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator THD.png){: .align-center}  
 
 가장 기본적인 세팅으로 로딩했을 때의 입출력 그래프이다.  
 이로부터 Inflator가 non-linear한, 일종의 saturation 플러그인임을 알 수 있다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator compression.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator compression.png){: .align-center}  
 
 하지만 이것이 컴프레서는 아니다.  
 Threshold를 넘어서는 소리를 일정 비율로 감소시키지 않기 때문이다.  
 비교하자면 어택이 0인 soft knee Limiter에 가깝다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-effect-knob.gif){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-effect-knob.gif){: .align-center}  
 
 Effect 슬라이더는 일반적인 Mix 기능으로 추정할 수 있다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-curve-knob.gif){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-curve-knob.gif){: .align-center}  
 
 Curve 슬라이더는 입출력 non-linearity 특성을 조금 변화시킨다.  
 -50으로 갈수록 조금 더 linear해지고, 50으로 갈수록 조금 더 휘어진다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-wavefolder-1.gif){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-wavefolder-1.gif){: .align-center}  
 
 그러나 Inflator의 또다른 특성은 입력이 0dB를 넘어섰을 때 나타난다.  
 늘어나던 입력이 다시 줄어들기 시작한다.  
@@ -80,7 +81,7 @@ Curve 슬라이더는 입출력 non-linearity 특성을 조금 변화시킨다.
 이것이 이해하기 어렵다면 다음과 같이 sine파를 주었을 때 끝부분이 접히는 것을 보면 이해하기 쉽다.  
 이 때문에 이 플러그인은 waveshaper이고 그 중 정확히는 wavefolder인 것이다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-wavefolder-2.gif){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator-wavefolder-2.gif){: .align-center}  
 
 이러한 특성 때문에 입력미터가 0dB를 조금 넘도록 플러그인이 입력 슬라이더를 조정하였을 때 이 플러그인만의 특성을 제일 돋보이게 사용할 수 있는 것이다.  
 청감 레벨은 상승하고, 실제 최대 레벨이 커지지도 않고, 다이나믹을 건드려 그루브감이 변하지도 않는 아주 멋진 일이 벌어지기 시작한다.  
@@ -90,16 +91,16 @@ Curve 슬라이더는 입출력 non-linearity 특성을 조금 변화시킨다.
 다시 REAPER 커뮤니티로 돌아가서, 사람들은 이 입출력 커브를 발견하고 이와 동일한 형태를 가지는 함수를 추정하기 시작했다.  
 얼마 지나지 않아 그들은 거의 완벽하게 들어맞는 함수를 찾아냈다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator func 1 e.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator func 2 e.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator func 1 e.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator func 2 e.png){: .align-center}  
 
 그리고 원본와 이 카피는 서로를 완벽하게 상쇄한다.  
 REAPER에서 두 트랙에 동일한 핑크 노이즈를 주고 하나의 위상을 뒤집으면 둘이 합쳐진 최종 출력은 정말로 없어진다.  
 그것도 다양한 세팅값에 대해 모두 성공한다.  
 
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 1.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 2.png){: .align-center}  
-![SONNOX Oxford Inflator({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 3.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 1.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 2.png){: .align-center}  
+![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/Inflator NULL 3.png){: .align-center}  
 
 그러므로 이 코드가 원본과 같거나, 매우 작은 차이를 가진다는 것을 확인했다.  
 
