@@ -1,6 +1,6 @@
 ---
 title:   "SONNOX Inflator 카피하기"
-excerpt: "플러그인 카피해서 만들어보기 - 1"
+excerpt: "플러그인 카피해서 만들어보기"
 date:  2022-08-14 00:12:05 +0900
 
 categories:
@@ -23,7 +23,6 @@ tags:
 ## SONNOX Oxford Inflator  
   
 ![SONNOX Oxford Inflator]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2022-08-14-inflator-1/inflator-V3-gui2.jpg){: .align-center}  
-
 
 최근 메인으로 쓰는 노트북에 리눅스를 듀얼부팅으로 구성하다가 뭘 잘못 건드렸는지 와이파이 모듈이 자꾸 에러를 뿜으며 잘 붙지 않게 되었다.  
 두달간 다섯번정도 C드라이브를 밀고 재설치한 것 같다.  

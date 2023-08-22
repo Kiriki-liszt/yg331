@@ -13,14 +13,14 @@ tags:
 
 ## 스피커 이야기  
 
-![Home Studio 1]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/_DSC1189.png){: .align-center}  
+![Home Studio 1]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/DSC1189.jpg){: width="80%" height="80%" .align-center}  
 
 요즘 여러 작업실과 스튜디오를 다니면서 제대로 된 모니터링 환경의 중요성을 느끼고 새로운 모니터 스피커와 받침대를 주문했다. 새로운 스피커가 무조건 더 나은 믹스를 가져다 주는 것은 아니지만, 헤드폰에만 의존하는 현재 상태보다는 나을 것이다.  
 
 이러한 결정은 방을 옮기면서 더 넓은 공간을 쓸 수 있게 되면서 이를 활용하기 위한 면도 있다. 이전의 방은 작아서 스피커의 물리적인 크기나 음향적 특성이 불리했다. 넓은 방은 스피커와의 크리티컬 디스턴스가 조금 더 늘어나기 때문에 모니터 스피커를 사용하기에도 낫다.  
 
-![Home Studio 2]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/FR1.png){: .align-center}  
-![Home Studio 3]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/FR2.png){: .align-center}  
+![Home Studio 2]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/FR1.png){: width="80%" height="80%" .align-center}  
+![Home Studio 3]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-06-09/FR2.png){: width="80%" height="80%" .align-center}  
 
 스피커과 공간을 옮기면서 적응하기 전에, 스피커의 배치와 청취 위치 등을 튜닝했다. 주로 벽과 스피커의 거리, 나와 스피커 사이의 거리를 움직여서 마이크로 Sweep 결과를 확인했다. 처음에는 벽과 스피커의 거리를 띄우고 청취위치를 옮겨서 조정해보았지만, 딥이 거리에 굉장히 민감하게 반응해서 나와 스피커 사이의 거리를 많이 띄워야 해서 사용이 불가했다.  
 결국 스피커를 벽에 아주 가까이 붙이되, 후면 포트와 5cm 거리를 띄워주고, 내장 EQ로 500Hz를 내려주었다. 이후 천장과의 공진으로 생기는 140Hz 부밍은 SoundSource에 Pro-Q 3를 로드해서 잡아주었다. 믹스 시에는 허리를 세우고 책상과 책상 끝 부근에 키보드와 마우스를 두고 사용하면 적당하게 나왔다.  
