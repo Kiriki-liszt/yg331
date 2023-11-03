@@ -11,9 +11,9 @@ tags:
   - PC
 ---
 
-## 시작하기  
-
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/intro.png){: .align-center}  
+
+## 시작하기  
 
 Sonnox Oxford 플러그인들은 20년이 넘도록 많은 프로들이 사용하였고, 검증되었다.  
 그 중 가장 유명한 Inflator의 배음 생성 특징을 Dynamics, Limiter의 warmth, enhence와 비교해보았다.  
