@@ -69,7 +69,7 @@ Sonnox Oxford 플러그인들은 20년이 넘도록 많은 프로들이 사용�
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_harm.png){: .align-center}  
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_Inf_harm.png){: .align-center}  
 
-또한 Dynamics 분석을 통해 Inflator는 시간-독립적인 static이지만 Limiter는 release가 존재하는 시간-종속적인 dynamic 프로세스임을 알 수 있다.  
+또한 Dynamics 분석을 통해 Inflator는 시간-독립적인 static이지만 enhance는 release가 존재하는 시간-종속적인 dynamic 프로세스임을 알 수 있다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Inf_dyn.png){: .align-center}  
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_dyn.png){: .align-center}  
