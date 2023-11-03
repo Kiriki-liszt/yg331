@@ -74,7 +74,7 @@ Sonnox Oxford 플러그인들은 20년이 넘도록 많은 프로들이 사용�
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Inf_dyn.png){: .align-center}  
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_dyn.png){: .align-center}  
 
-마지막으로 panning을 주어 스테레로 차이를 만들어 준 결과 enhance에는 채널 간 영향이 존재하여 Harminocs에서 단순히 gain 차이에 의해 발생할 수 없는 harmonic pattern이 발견되었고, Dynamics 분석을 통해 채널 간 간섭의 경우 어택이 존재함을 알 수 있다.  
+마지막으로 panning을 주어 스테레로 차이를 만들어 준 결과 enhance에는 채널 간 영향이 존재하여 Harmonics에서 단순히 gain 차이에 의해 발생할 수 없는 harmonic pattern이 발견되었고, Dynamics 분석을 통해 채널 간 간섭의 경우 어택이 존재함을 알 수 있다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_st_har_a.png){: .align-center}  
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-10-21/Lin-Inf/PD_Lim_st_har_b.png){: .align-center}  
