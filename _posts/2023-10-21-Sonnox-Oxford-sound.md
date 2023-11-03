@@ -82,6 +82,4 @@ Sonnox Oxford 플러그인들은 20년이 넘도록 많은 프로들이 사용�
 
 ## Outro  
 
-이로부터 우리는 Oxford Dynamics에 있는 warmth 섹션은 Oxford Inflator와 같고, Oxford Limiter에 있는 enhence 섹션은 단순한 waveshaper가 아닌 Look-ahead, time-dependent한 알고리즘임을 알았다.  
-
-이후, Oxford
+이로부터 우리는 Oxford Dynamics에 있는 warmth 섹션은 Oxford Inflator와 같고, Oxford Limiter에 있는 enhence 섹션은 단순한 waveshaper가 아닌 Look-ahead, channel-and-time-dependent한 알고리즘임을 알았다.  
