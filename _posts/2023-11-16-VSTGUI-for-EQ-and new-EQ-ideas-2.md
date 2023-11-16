@@ -197,3 +197,19 @@ namespace VSTGUI {
 플러그인의 controller에서 생성자와 update를 통해 parameter의 변경을 받아 저장한다.  
 이후 각자의 방법으로 IIR의 FR을 얻어내면 된다.  
 나는 SVF 필터를 사용하여 IIR을 얻으므로, andy cytomic의 paper들을 주로 참고하였다.  
+
+``` uidesc
+"CView": {
+  "attributes": {
+    "class": "CView",
+    "custom-view-name": "MyView",
+    "mouse-enabled": "true",
+    "opacity": "1",
+    "transparent": "false",
+    "uidesc-label": "EQ Curve view",
+    "wants-focus": "false"
+  }
+}
+```
+
+VSTGUI의 .uidesc 파일에서 다음과 같이 custom-view-name을 설정해주면 된다.  
