@@ -23,7 +23,7 @@ VSTSDK 3.7.9, Windows 10, VS2023 community에서 실행한다.
 ## VSTGUI 메소드 - CGraphicsPath  
 
 ``` C++
-void MyControl::draw(VSTGUI::CDrawContext* pContext)
+void MyView::draw(VSTGUI::CDrawContext* pContext)
 {
   VSTGUI::CGraphicsPath* path = pContext->createGraphicsPath();
   if (path)
