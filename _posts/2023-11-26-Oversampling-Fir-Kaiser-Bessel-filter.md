@@ -1,7 +1,7 @@
 ---
 title:   "Oversampling 이야기 - Kaiser-Bessel filter"
 excerpt: "플러그인 오버샘플링 이야기"
-date:  2023-11-07 00:12:05 +0900
+date:  2023-11-26 00:12:06 +0900
 
 categories:
   - Production
