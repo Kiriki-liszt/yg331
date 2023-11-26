@@ -20,7 +20,7 @@ Finite impulse response filter는 유한한 크기의 impulse response에 기반
 ## Kaiser-Bessel filter  
 
 J. F. Kaiser가 고안한 Kaiser-Bessel filter는 cutoff frequency에서 foldback이 일어났을 때, 원래이 모습이 그대로 복원된다(이는 수학적으로 증명된 사항은 아니고, 실험적으로 발견된 것이다). "Nonrecursive digital filter design using I0-sinh window function"  
-이 필터의 계수는 다음 두 사이트에서 구할 수 있으나, 나는 c++로 작성하여 저 정확한 계수의 유효숫자를 얻었다.  
+이 필터의 계수는 다음 두 사이트에서 구할 수 있으나, 나는 c++로 작성하여 더 정확한 계수의 유효숫자를 얻었다.  
 <https://arc.id.au/FilterDesign.html>  
 <https://fiiir.com/>  
 
@@ -30,4 +30,4 @@ J. F. Kaiser가 고안한 Kaiser-Bessel filter는 cutoff frequency에서 foldbac
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-11-26/002.png){: .align-center}  
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-11-26/003.png){: .align-center}  
 
-정말로 아무것도 하지 않은 초기 상태에서 주파수 응답이 flat하다.  
+정말 아무것도 하지 않은 초기 상태에서 주파수 응답이 flat하다.  
