@@ -20,6 +20,10 @@ Oversampling에 사용하는 FIR 필터는 홀수 개의 대칭 tap을 가진다
 메모리의 align이 되어 있어야 하므로 구조체 버퍼 등의 생성 시 alignas(16) 등으로 정렬해준다.  
 이 기법을 fir 필터의 대칭성 최적화와 같이 사용하기 위해서는 input이 buffer에 들어갈 때 정렬이 깨지지 않도록 주의를 기울여야 한다.  
 
+이렇게 최적화 시, 대략 40%정도의 성능 개선을 볼 수 있다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-11-27/sc.png){: .align-center}  
+
 ``` c++
 // 4 in 1 out
 void GUI_Processor::Fir_x4_dn(Vst::Sample64* in, Vst::Sample64* out, int32 channel)
