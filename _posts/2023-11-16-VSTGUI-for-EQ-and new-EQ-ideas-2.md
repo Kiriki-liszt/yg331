@@ -15,7 +15,7 @@ tags:
 
 ## VSTGUI - Custom View  
 
-``` C++
+``` c++
 // Header
 
 namespace VSTGUI {
@@ -95,7 +95,7 @@ protected:
 헤더에서는 EQ curve를 표시할 MyView를 선언하고, GUI_Controller(플러그인의 최상위 컨트롤러)에 public VSTGUI::VST3EditorDelegate를 상속한다.  
 그리고 createCustomView를 override하여 위에서 선언한 MyView 호출시 생성한다.  
 
-``` C++
+``` c++
 // controller
 namespace VSTGUI {
   MyView::MyView(const VSTGUI::CRect& size, Steinberg::Vst::EditController* editController)

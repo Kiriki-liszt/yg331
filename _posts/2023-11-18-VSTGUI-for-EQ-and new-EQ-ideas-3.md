@@ -22,7 +22,7 @@ dB의 표기와 각 Band의 파라미터들을 하나의 컨테이너에 담아�
 
 ## VSTGUI - draw  
 
-``` C++
+``` c++
 void MyView::draw(VSTGUI::CDrawContext* pContext)
 {
  pContext->setLineWidth(1);
