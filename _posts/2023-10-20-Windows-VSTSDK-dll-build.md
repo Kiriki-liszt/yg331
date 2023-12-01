@@ -13,7 +13,7 @@ tags:
 
 ## 시작하기  
 
-VSTSDK 3.7.9, 왼도우 10, VS2022 community를 사용했다.  
+VSTSDK 3.7.9, 윈도우 10, VS2022 community를 사용했다.  
 
 ## VSTSDK setup  
   
