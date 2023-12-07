@@ -20,6 +20,7 @@ tags:
 which is feels intuitively right to me since you just increment a bit of signal onto your existing state to
 do your integration."  
 > "state의 갱신을 increment 방식으로 함으로서 낮음 음역대의 필터 계수를 0에 가깝게 유지할 수 있고, 캐퍼시터의 적분을 수행할 때 기존의 state에 신호를 조금 축적해나가는 방식이 자연스럽기 때문이다."  
+
 이라고 설명했다.  
 
 그가 제안한 SVF 필터는 2-pole 2-zero 방식으로 12dB/Oct 커브를 가진다.  
