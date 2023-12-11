@@ -30,7 +30,7 @@ tags:
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-12-12/Highpass_phase_2.png){: .align-center}  
 
-그렇다고 Highpass만 Oversampling을 하지 않는다면 Curve가 변형되고 target frequency가 변항 위험이 있다.  
+그렇다고 Highpass만 Oversampling을 하지 않는다면 Curve가 변형되고 target frequency가 변할 위험이 있다.  
 
 결국 Fir window를 바꾸거나, att. level, transition band width를 바꿔가며 적절한 세팅을 찾으면 된다.  
 
