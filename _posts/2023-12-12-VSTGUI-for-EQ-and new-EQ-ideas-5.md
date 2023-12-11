@@ -59,7 +59,7 @@ Ozone 10 EQ의 경우, -150dB 정도의 noise floor를 가지고 있다.
 
 Crave EQ의 경우, -180dB 정도의 noise floor를 가지고 있다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-12-12/Highpass_Ozone.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2023-12-12/Highpass_crave_analog.png){: .align-center}  
 
 DMG Audio의 경우, Fir tap 수에 따라 noise floor가 낮아지는 것을 비교하여 볼 수 있다.  
 
