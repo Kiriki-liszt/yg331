@@ -11,6 +11,12 @@ tags:
   - PC
 ---
 
+## N-th order pass filters  
+
+12dB/oct보다 더 높은 차수의 필터가 필요할 때, 여러 6dB/oct와 12dB/oct 필터들을 조합하여 얻을 수 있다.  
+일반적으로 EQ에 사용하는 n-th order는 Butterworth를 따른다.  
+<https://en.wikipedia.org/wiki/Butterworth_filter>  
+
 ## Oversampling and Low-end Phase  
 
 이상적인 Highpass의 응답은 다음과 같다.  
