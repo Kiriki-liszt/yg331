@@ -17,6 +17,8 @@ tags:
 일반적으로 EQ에 사용하는 n-th order는 Butterworth를 따른다.  
 <https://en.wikipedia.org/wiki/Butterworth_filter>  
 
+이때, 필터의 응답은 cascade하여 구하고, Magnitude 응답은 곱하여 구한다.  
+
 ## Oversampling and Low-end Phase  
 
 이상적인 Highpass의 응답은 다음과 같다.  
