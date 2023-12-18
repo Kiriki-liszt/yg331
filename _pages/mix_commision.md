@@ -5,6 +5,15 @@ permalink: /mix_commision/
 
 ## 믹스 커미션  
 
+### 소개  
+
+모니터 스피커 - 야마하 HS5, Harman Subwoofer  
+오디오 인터페이스 - 클라렛 2Pre  
+DAW - 큐베이스 12 pro  
+VST plugins - Waves, UAD spark, iZotope, Sonnox, FabFilter, Plugin Alliance(Bettermaker, Black Box HG-2, Brainworx, Maag, Shadowhills, SPL), SoundToys, SSL Native, TDR, Wavesfactory  
+Reverbs - Exponential Audio Symphony, LiquidSonics Seventh Heaven, Sonnox Oxford Reverb, Native Instruments RAUM, ReLab LX480, Valhallah DSP reverbs  
+Vocal Editors - Celemony Melodyne, Synchro Arts VocALign
+
 ### 의뢰하기
 
 출력시 MR과 녹음본의 파일 길이 맞추기  
