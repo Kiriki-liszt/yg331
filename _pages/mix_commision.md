@@ -32,3 +32,5 @@ Vocal Editors - Celemony Melodyne, Synchro Arts VocALign
 정리된 파일 다시 흩어내기, 곡 진행에 따라 트랙 나누기  
 공간계, 보컬버스, 믹스버스 템플릿  
 기본 보컬체인 - C4, Pultec EQ, maag EQ4, LA-2A, DeEsser, saturation(2254e, inflator, decapitator, studer A800, ...)  
+
+더 참고하기 - <https://shated-studio.com/>  
