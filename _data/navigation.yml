@@ -11,20 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-  - title: VST
-    children:
-    - title: "compressor"
-      url: /categories/VST/compressor/
-      category: "compressor"
-    - title: "EQ"
-      url: /categories/VST/EQ/
-      category: "EQ"
-  - title: "music-tech"
-    url: /categories/music-tech/
-    category: "music-tech"
-  - title: coding
-    children:
-      - title: "C_C++"
-        url: c_cpp/
-        category: "C_C++"
+#docs:
+#  - title: VST
+#    url: /categories/VST/
+#  - title: "music-tech"
+#    url: /categories/music-tech/
+#    category: "music-tech"
+#  - title: coding
+#    children:
+#      - title: "C_C++"
+#        url: c_cpp/
+#        category: "C_C++"
