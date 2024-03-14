@@ -182,6 +182,9 @@ body:hover .visually-hidden button {
 
 .half-width {
   max-width: 50%;
+  @include breakpoint($large) {
+    max-width: 90%;
+  }
 }
 
 /* file page content container */
