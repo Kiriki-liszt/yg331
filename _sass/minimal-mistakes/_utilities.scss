@@ -181,9 +181,9 @@ body:hover .visually-hidden button {
 /* image half width */
 
 .half-width {
-  max-width: 50%;
+  max-width: 90%;
   @include breakpoint($large) {
-    max-width: 90%;
+    max-width: 50%;
   }
 }
 
