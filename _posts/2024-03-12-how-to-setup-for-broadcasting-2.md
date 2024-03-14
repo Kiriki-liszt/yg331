@@ -17,12 +17,10 @@ tags:
 
 ## 플러그인이란 무엇인가  
 
-플러그인의 시작은 녹음 및 믹싱 스튜디오에서 쓰이던 각종 하드웨어 장비들입니다.  
-하나의 곡을 완성하기 위해서는 EQ, 컴프레서, 디에서 등등 여러 기능이 필요합니다.  
-즉, 이러한 기능들을 컴퓨터에서도 사용할 수 있도록 만든 작은 프로그램 파일입니다.  
+플러그인이란 녹음 및 믹싱 스튜디오에서 쓰이던 각종 하드웨어 장비들을 컴퓨터에서도 사용할 수 있도록 만든 작은 프로그램 파일입니다.  
 이를 DAW나 OBS, Premire Pro 등등 프로그램에서 불러와 사용하는 것입니다.  
 
-다양한 회사들에 의해 만들어지고 있으며, 추천하는 제조사에는 FabFilter, iZotope, UAD, Soundtoys, WAVES, Sonnox, Softube, TDR, SSL native, PluginAliance 등이 있습니다.  
+플러그인은 다양한 회사들에 의해 만들어지고 있으며, 추천하는 제조사에는 FabFilter, iZotope, UAD, Soundtoys, WAVES, Sonnox, Softube, TDR, SSL native, PluginAliance 등이 있습니다.  
 할인 정보는 miditalk, gearlounge, plugin boutique 등의 사이트에서 확인할 수 있습니다.  
 
 가끔 플러그인 파일만을 모아서 공유하는 경우가 있습니다.  
