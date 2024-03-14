@@ -75,11 +75,11 @@ tags:
 ## 부록  
 
 소리 좋은 무료 리버브 : Komplete start bundle - RAUM  
-<https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/>  
+[https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/){: overflow-wrap="anywhere"}  
 설치 방법 - <https://thenotemusic.tistory.com/1021>  
 
 추천 무료 플러그인 모음  
-<https://chzzk.naver.com/c02b3049bcb08859d15ca73246bce762/community/detail/10712438>
+[https://chzzk.naver.com/c02b3049bcb08859d15ca73246bce762/community/detail/10712438](https://chzzk.naver.com/c02b3049bcb08859d15ca73246bce762/community/detail/10712438){: overflow-wrap="anywhere"}  
 
 VST 3 플러그인을 OBS에서 쓰려면 Waves Audio의 StudioRack을 사용하면 됩니다.  
 <https://www.waves.com/support/how-to-get-studiorack>  
