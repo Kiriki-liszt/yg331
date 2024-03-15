@@ -83,7 +83,9 @@ VST 3 버전의 리버브를 사용하고 싶다면 하단의 부록을 참조�
 [https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/){: overflow-wrap="anywhere"}  
 설치 방법 - <https://thenotemusic.tistory.com/1021>  
 주의사항 - 윈도우 사용자명이 한글이 있을 경우 에러가 납니다.  
-설치를 위해 윈도우 계정을 영어로 하나 만들어서 설치하시기 바랍니다.  
+윈도우 계정명을 영어로 바꾸는 방법은 다음 블로그레 잘 소개되어 있다.  
+<https://blog.naver.com/PostView.naver?blogId=rkdalstj7504&logNo=222173490548>  
+혹은, 설치를 위해 윈도우 계정을 영어로 하나 만들어서 설치하시기 바랍니다.  
 
 추천 무료 플러그인 모음  
 [https://chzzk.naver.com/c02b3049bcb08859d15ca73246bce762/community/detail/10712438](https://chzzk.naver.com/c02b3049bcb08859d15ca73246bce762/community/detail/10712438){: overflow-wrap="anywhere"}  
