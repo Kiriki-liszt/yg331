@@ -26,6 +26,8 @@ tags:
 
 ## 리버브의 구조  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-15/001.png){: width="870px "}{: .align-center .half-width}  
+
 리버브는 크게 [ Pre-delay -> Early reflections -> Tail ]로 이루어집니다.  
 
 ### Pre-delay  
