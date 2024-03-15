@@ -76,6 +76,9 @@ VST 3 버전의 리버브를 사용하고 싶다면 하단의 부록을 참조�
 
 ## 부록  
 
+리버브에 대한 간단한 설명  
+<https://kiriki-liszt.github.io/yg331/production/how-to-setup-reverb-simple/>  
+
 소리 좋은 무료 리버브 : Komplete start bundle - RAUM  
 [https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/){: overflow-wrap="anywhere"}  
 설치 방법 - <https://thenotemusic.tistory.com/1021>  
