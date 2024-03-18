@@ -26,7 +26,7 @@ ASIO란 Steinberg에서 만든 표준으로 윈도우 환경에서 오디오 인
 이는 OBS에서도 윈도우 내장 오디오 입력이 아닌 ASIO 입력을 사용하게 해주는 기능입니다.  
 오인페를 쓰는 경우에만 사용 가능하며, OBS ASIO [링크](https://github.com/Andersama/obs-asio/releases/latest)를 다운로드하여 설치할 수 있습니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/001.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/001.png){: .align-center}  
 
 OBS에서 해당 소스를 선택하여 사용할 수 있습니다.  
 
@@ -54,7 +54,7 @@ OBS에서 미디어 재생기로 Dirac Impulse를 재생하고, 오인페에서 
 버퍼 사이즈는 128 samples입니다.  
 OBS 자체 입력 캡쳐는 왼쪽, OBS-ASIO는 오른쪽으로 이어주었습니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/005.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/005.png){: .align-center}  
 
 이를 큐베이스에서 불러와본 경우, 다음과 같이 둘 사이에 레이턴시가 있음을 확인할 수 있습니다.  
 
