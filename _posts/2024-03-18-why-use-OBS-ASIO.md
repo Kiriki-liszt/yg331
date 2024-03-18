@@ -48,11 +48,13 @@ Channel을 선택하여 오인페의 어떤 입력을 사용할 지 설정합니
 OBS에서 미디어 재생기로 Dirac Impulse를 재생하고, 오인페에서 케이블로 출력을 입력으로 이어주었습니다.  
 아날로그 입력의 차이를 확인하기 위해 오인페의 자체 루프백 기능은 사용하지 않았습니다.  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/004.jpeg){: .align-center .half-width}  
+
 다음과 같이 녹화를 진행하였습니다.  
 버퍼 사이즈는 128 samples입니다.  
 OBS 자체 입력 캡쳐는 왼쪽, OBS-ASIO는 오른쪽으로 이어주었습니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/004.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/005.png){: .align-center .half-width}  
 
 이를 큐베이스에서 불러와본 경우, 다음과 같이 둘 사이에 레이턴시가 있음을 확인할 수 있습니다.  
 
