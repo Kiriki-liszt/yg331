@@ -19,6 +19,7 @@ tags:
 
 우선 마이크 입력을 받는 트랙을 두 개 만듭니다.  
 오인페를 쓰신다면 OBS ASIO [링크](https://github.com/Andersama/obs-asio/releases/latest)를 사용해서 마이크 입력을 받는게 레이턴시(=딜레이)를 적게 받을 수 있습니다.  
+관련 내용은 다음 [링크](https://kiriki-liszt.github.io/yg331/production/why-use-OBS-ASIO/)에 정리해두었습니다.  
 우선은 일반 오디오 입력 캡쳐로 진행하겠습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/001.png){: width="870px "}{: .align-center .half-width}  
