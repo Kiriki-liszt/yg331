@@ -83,6 +83,17 @@ VST 3 버전의 리버브를 사용하고 싶다면 하단의 부록을 참조�
 소리 좋은 무료 리버브 : Komplete start bundle - RAUM  
 [https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/){: overflow-wrap="anywhere"}  
 설치 방법 - <https://thenotemusic.tistory.com/1021>  
+
+Native Instruments VST 설치 위치 설정해야 OBS에서 사용 가능합니다!  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/011.png){: .align-center .half-width}  
+
+Native Access의 Preference에 가서 File Management - VST location (64bit)을 OBS가 인식할 수 있는 위치인
+'C:/Program Files/Steinberg/Vstplugins'
+로 설정해준 뒤, 설치해야 합니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/012.png){: .align-center .half-width}  
+
 주의사항 - 윈도우 사용자명이 한글이 있을 경우 에러가 납니다.  
 윈도우 계정명을 영어로 바꾸는 방법은 다음 블로그레 잘 소개되어 있다.  
 <https://blog.naver.com/PostView.naver?blogId=rkdalstj7504&logNo=222173490548>  
