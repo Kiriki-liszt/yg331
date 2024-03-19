@@ -6,6 +6,8 @@ classes: wide
 last_modified_at: 2022-05-27T11:59:26-04:00
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/DSC01545_edited.png){: .align-center}  
+
 안녕하십니까, yg331이라고 합니다.  
 믹싱, 레코딩, 라이브 PA를 주로 하고 오디오 플러그인도 개발합니다.  
 일렉기타와 밴드 커버도 하고 있습니다.  
