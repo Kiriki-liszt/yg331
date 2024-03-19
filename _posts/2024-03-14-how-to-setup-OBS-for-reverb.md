@@ -69,7 +69,14 @@ VST 3 버전의 리버브를 사용하고 싶다면 하단의 부록을 참조�
 플러그인에 따라 MIX가 50%에 가 있는 경우도 있습니다.  
 하지만 이 세팅은 마이크를 두 트랙으로 사용하기 때문에 꼭 100%로 맞춰서 리버브 트랙에서 리버브'만' 들리게 합니다.  
 
-## 3. 리버브 조절하기  
+## 3. 리버브 세팅 및 조절하기  
+
+리버브의 세팅은 기본적으로 본인 취향에 맞추면 됩니다.  
+예시로 사용한 RAUM같은 경우, 제가 선호하는 세팅은 다음과 같습니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/009-1.png){: .align-center .half-width}  
+
+Type에 따라 인상이 많이 변하기 때문에 한번씩 바꿔보시고, 리버브 Tail이 너무 길지 않게 3초 언저리로 세팅했습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/010.png){: width="1086px "}{: .align-center .half-width}  
 
