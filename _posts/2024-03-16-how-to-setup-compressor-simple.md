@@ -59,13 +59,13 @@ Knee란 컴프레서가 작동하는 영역과 작동하지 않는 영역이 만
 ### Attack Time  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_short.png){: .align-center .half-width}  
-<sub>Short Attack(1ms)</sub>  
+<sup class="align-center">Short Attack(1ms)</sup>
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_mid.png){: .align-center .half-width}  
-<sub>Medium Attack(10ms)</sub>  
+<sup class="align-center">Medium Attack(10ms)</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_long.png){: .align-center .half-width}  
-<sub>Long Attack(50ms)</sub>  
+<sup class="align-center">Long Attack(50ms)</sup>  
 
 Attack은 입력 소리가 Threshold를 넘어설 때, 컴프레서가 완전히 작동할 때까지 걸리는 시간을 말합니다.  
 일반적으로 '빠른' 세팅은 20 ~ 800 us(1176, FET 타입), '느린' 세팅은 10 ~ 100 ms(LA-2a, Opto 타입) 입니다.  
@@ -75,13 +75,13 @@ Attack은 입력 소리가 Threshold를 넘어설 때, 컴프레서가 완전히
 ### Release Time  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_short.png){: .align-center .half-width}  
-<sub>Short Release(minimun, 5ms)</sub>  
+<sup class="align-center">Short Release(minimun, 5ms)</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_mid.png){: .align-center .half-width}  
-<sub>Medium Release(35ms)</sub>  
+<sup class="align-center">Medium Release(35ms)</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_long.png){: .align-center .half-width}  
-<sub>Long Release(0.1sec)</sub>  
+<sup class="align-center">Long Release(0.1sec)</sup>  
 
 Release는 입력 소리가 다시 Threshold보다 작아질 때, 원래대로 돌아오는데 걸리는 시간을 말합니다.  
 이 값은 Attack보다 더 긴 시간을 가지며, 짧게는 40 ~ 60 ms 부터 길게는 2 ~ 5 s 까지 걸립니다.  
@@ -92,19 +92,19 @@ Release는 가능한 한 짧게, '울렁'거리는 것이 들리지 않도록 �
 ### Hold Time  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Hold_0.1.png){: .align-center .half-width}  
-<sub>Transient 0.1s</sub>  
+<sup class="align-center">Transient 0.1s</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Hold_0.2.png){: .align-center .half-width}  
-<sub>Transient 0.2s</sub>  
+<sup class="align-center">Transient 0.2s</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Hold_0.3.png){: .align-center .half-width}  
-<sub>Transient 0.3s</sub>  
+<sup class="align-center">Transient 0.3s</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Hold_0.4.png){: .align-center .half-width}  
-<sub>Transient 0.4s</sub>  
+<sup class="align-center">Transient 0.4s</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Hold_0.5.png){: .align-center .half-width}  
-<sub>Transient 0.5s</sub>  
+<sup class="align-center">Transient 0.5s</sup>  
 
 Hold는 컴프레서가 작동한 시점으로부터 Release가 작동하기까지의 시간을 말합니다.  
 예를 들어, Hold가 1 sec로 설정되었을 때 - 큰 입력 신호가 1 sec보다 길게 유지되었다면 Release는 영향을 받지 않지만, 1 sec보다 짧게 유지되었다면 Release는 이에 영향을 받아 설정한 값보다 더 길어집니다.  
