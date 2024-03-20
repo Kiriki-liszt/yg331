@@ -61,10 +61,10 @@ Knee란 컴프레서가 작동하는 영역과 작동하지 않는 영역이 만
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_short.png){: .align-center .half-width}  
 <sub>Short Attack(1ms)</sub>  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_short.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_mid.png){: .align-center .half-width}  
 <sub>Medium Attack(10ms)</sub>  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_short.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_long.png){: .align-center .half-width}  
 <sub>Long Attack(50ms)</sub>  
 
 Attack은 입력 소리가 Threshold를 넘어설 때, 컴프레서가 완전히 작동할 때까지 걸리는 시간을 말합니다.  
@@ -77,10 +77,10 @@ Attack은 입력 소리가 Threshold를 넘어설 때, 컴프레서가 완전히
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_short.png){: .align-center .half-width}  
 <sub>Short Release(minimun, 5ms)</sub>  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_short.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_mid.png){: .align-center .half-width}  
 <sub>Medium Release(35ms)</sub>  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_short.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Rls_long.png){: .align-center .half-width}  
 <sub>Long Release(0.1sec)</sub>  
 
 Release는 입력 소리가 다시 Threshold보다 작아질 때, 원래대로 돌아오는데 걸리는 시간을 말합니다.  
