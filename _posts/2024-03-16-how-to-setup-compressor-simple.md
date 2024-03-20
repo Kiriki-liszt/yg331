@@ -27,6 +27,8 @@ tags:
 
 ## 컴프레서의 구조  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Overview.png){: .align-center .half-width}  
+
 컴프레서는 기준보다 큰 소리를 일정 비율로 줄어들게 만들어 소리의 범위를 조정합니다.  
 이 기능은 크게 두 가지로 나누어 볼 수 있습니다:
 
@@ -59,7 +61,7 @@ Knee란 컴프레서가 작동하는 영역과 작동하지 않는 영역이 만
 ### Attack Time  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_short.png){: .align-center .half-width}  
-<sup class="align-center">Short Attack(1ms)</sup>
+<sup class="align-center">Short Attack(1ms)</sup>  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-16/Atk_mid.png){: .align-center .half-width}  
 <sup class="align-center">Medium Attack(10ms)</sup>  
