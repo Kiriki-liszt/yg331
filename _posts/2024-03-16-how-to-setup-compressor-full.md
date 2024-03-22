@@ -1,6 +1,6 @@
 ---
-title:   "컴프레서의 구조 이해와 간단한 사용 예시"
-excerpt: "오인페, 마이크, 플러그인, 세팅에 대한 개론"
+title:   "컴프레서란 무엇인가"
+excerpt: "플러그인에 대한 개론"
 date:  2024-03-16 00:12:05 +0900
 
 categories:
@@ -192,19 +192,27 @@ Ratio가 아주 많이 커지기 때문에, knee 또한 많이 soft하게 설정
 
 * 알맞은 길이의 Release는 곡의 리듬감을 더 두드러지게 할 수 있습니다.  
 
-다음은 도움이 될 만한 기본적인 사용법들이다.  
+다음은 도움이 될 만한 기본적인 사용법들입니다.  
 
-#### Fast as Possible Approach  
+#### '가능한 한 빠르게' 방식  
 
-To obtain absolute maximum modulation and minimum dynamic range, the best approach is to set release times to minimum, increase the hold time just enough to the reduce LF distortion to acceptable levels, and increase the attack time just enough to allow some overshoot on percussive peaks, in order to retain some impression of programme dynamics. The appropriate level of compression can then be obtained using the threshold, ratio and soft ratio controls. The overshoots produced by the attack times can be controlled by the use of the programme limiter section.
+가장 강한 캐릭터를 입히고 제일 작은 다이나믹으로 누르기 위해서는, 우선 Release를 최소로 줄이고 Hold를 적당히 키워 저역대의 왜곡을 줄입니다.  
+다음으로 Attack을 최소에서 조금씩 키워가며 타격음, 펀치감이 원하는 만큼 들릴 때 까지 조정합니다.  
+이후 threshold, ratio, knee 등으로 원하는 만큼 컴프레션의 량을 조절합니다.  
+이 뒤로 리미터 등을 걸어 삐져나간 큰 소리들을 한번 더 조정할 수 있습니다.  
 
-#### Natural Dynamics Approach  
+#### '자연스러운 다이나믹스' 방식  
 
-To obtain a more natural compression a good starting point is to set the attack and release controls to mid positions with hold control at minimum (this is the fixed setting of the Classic compressor style). This approach aims to match to some degree the dynamics of the ear’s response and recovery from loud sounds at relatively high sound pressure levels. Variations on these moderate settings can yield realistic results if appropriately adjusted to suit the intended reproduction levels of the programme.
+좀 더 자연스러운 컴프레서 소리를 얻기 위해 Attack과 Release를 중간(5.2ms, 0.127s)에서부터 시작하는 것입니다.  
+이러한 세팅은 높은 음압의 소리가 귀에 들리는 반응을 따라합니다.  
+이러한 기본값 부근에서 잘 조정한다면 원래의 신호가 가지는 다이나믹스를 자연스럽게 보존할 수 있습니다.  
 
-#### Slow and Gentle Approach  
+#### '차분하고 부드럽게' 방식  
 
-For level control with the least possible intrusion, set the attack and release times to the longest possible times, perhaps with the addition of the hold control to increase the release times further. This ensures that the highest levels within the programme material are controlled gently, and the gain recovery in the quiet passages is almost imperceptibly slow. This method is most effective when used in conjunction with the larger soft ratio settings, as this ensures that compression commences well before the target maximum level, providing a degree of prediction.
+가장 적은 영향을 주는 방식으로, Attack과 Release를 가장 크게(52ms, 3.11s) 설정하는 것입니다.  
+이는 소리의 큰 부분들이 어느 정도 제어되며, 조용해지는 부분에서 Release가 아주 부드럽게 올라옵니다.  
+이러한 방식은 낮은 knee와 함께 사용하면 더 좋습니다.  
+이는 더 많은 부분에서 컴프레서가 작동할 것이고, 조금 더 컴프레서가 의도대로 작동할 수 있게 합니다.  
 
 #### Artistic Effects  
 
