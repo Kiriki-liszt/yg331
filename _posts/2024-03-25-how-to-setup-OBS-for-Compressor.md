@@ -90,7 +90,7 @@ Channel에 오인페 입력 중 어느쪽인지 설정합니다.
 
 ### LALA  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/LALA_Setting.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/LALA_setting.png){: .align-center .half-width}  
 
 위과 같이 세팅하는 것을 기본으로 시작합니다.  
 이때 Gain Reduction을 잘 확인해야 합니다.  
