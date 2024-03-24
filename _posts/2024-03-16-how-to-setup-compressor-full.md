@@ -214,10 +214,6 @@ Ratio가 아주 많이 커지기 때문에, knee 또한 많이 soft하게 설정
 이러한 방식은 낮은 knee와 함께 사용하면 더 좋습니다.  
 이는 더 많은 부분에서 컴프레서가 작동할 것이고, 조금 더 컴프레서가 의도대로 작동할 수 있게 합니다.  
 
-#### Artistic Effects  
-
-The manipulation of timing within compression can create some very useful effects. In particular, gain overshoots produced by slow to moderate attack times can be very useful at tightening up soft percussion sounds. However, a note of caution is needed for users of workstation applications in that effects such as these may cause unexpected programme clipping that may prevent the available range of possible sounds being fully appreciated. In particular, for systems that lack overload margin between plug-ins or within their mixing structures, the extra short term peaks produced by creative compression may be prematurely clipped within the host application because essentially there is no range (headroom) to accommodate them. In this case a reduction of input levels and/or a suitable reduction of the threshold and gain make-up values may be needed to fully realise the new sound within the intended mix.
-
 ### 부록  
 
-EQ와 컴프레서를 적용하는 순서에 따라 다른 기능이 있습니다. EQ 다음에 컴프레서를 두면 EQ로 소리를 정리하여 음역대에 에너지가 뭉친 부분이 없이 컴프레서를 통과하여 다이나믹을 컨트롤하기 쉽다는 장점이 있습니다. 컴프레서 다음에 EQ를 둔다면 소리에 영향을 주는 것이 없으므로 안정적으로 음색을 조절할 수 있습니다. 따라서 둘 중 나중에 오는 것이 더 큰 영향을 준다고 이해하시면 됩니다. 만약 익숙해지신다면 EQ->Comp->EQ의 순서로 역할을 나누어 사용하시는 것이 좋습니다.  
+EQ와 컴프레서를 적용하는 순서에 따라 다른 기능이 있습니다. EQ 다음에 컴프레서를 두면 EQ로 소리를 정리하여 음역대에 에너지가 뭉친 부분이 없이 컴프레서를 통과하여 다이나믹을 컨트롤하기 쉽다는 장점이 있습니다. 컴프레서 다음에 EQ를 둔다면 소리에 영향을 주는 것이 없으므로 안정적으로 음색을 조절할 수 있습니다. 따라서 둘 중 나중에 오는 것이 더 큰 영향을 준다고 이해하시면 됩니다. 만약 익숙해지신다면 EQ->Comp->EQ의 순서로 역할을 나누어 사용하시는 것도 좋습니다.  
