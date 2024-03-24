@@ -23,7 +23,7 @@ tags:
 
 ## 2. OBS 트랙 만들기  
 
-우선 낮은 레이턴시를 위해 OBS ASIO [다운로드 페이지](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
+우선 낮은 레이턴시를 위해 OBS ASIO[(다운로드 페이지)](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
 관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/why-use-OBS-ASIO/)에 정리해두었습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_1.png){: .align-center .half-width}  
@@ -37,11 +37,9 @@ tags:
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/003.png){: .align-center .half-width}  
 
 Device로 사용하는 오인페를 선택합니다.  
-Format은 모노로 설정합니다.  
+Format은 리버브와 다르게 모노로 설정합니다.  
 Channel에 오인페 입력 중 어느쪽인지 설정합니다.  
 대부분의 오인페 마이크 입력은 1번이 기본입니다.  
-
-모노인 경우 자동으로 양쪽 다 같이 들어갑니다.  
 
 ## 3. 컴프레서 고르기 + 무료 컴프레서 추천  
 
