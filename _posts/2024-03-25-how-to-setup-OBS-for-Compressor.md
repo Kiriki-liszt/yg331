@@ -21,46 +21,20 @@ tags:
 이를 통해 더 안정적인 마이크 소리를 얻기 위해 사용합니다.  
 예를 들어, 노래를 부를 때 하이라이트 부분의 큰 소리가 깨지는 것을 방지하기 위해 사용하실 수 있습니다.  
 
-## 2. OBS 트랙 만들기  
-
-우선 낮은 레이턴시를 위해 OBS ASIO[(다운로드 페이지)](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
-관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/why-use-OBS-ASIO/)에 정리해두었습니다.  
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_1.png){: .align-center .half-width}  
-
-새 마이크 트랙을 하나 추가해줍니다.  
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_2.png){: .align-center .half-width}  
-
-이름은 쉽게 파악할 수 있도록 지어줍니다.  
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/003.png){: .align-center .half-width}  
-
-Device로 사용하는 오인페를 선택합니다.  
-Format은 리버브와 다르게 모노로 설정합니다.  
-Channel에 오인페 입력 중 어느쪽인지 설정합니다.  
-대부분의 오인페 마이크 입력은 1번이 기본입니다.  
-
-## 3. 컴프레서 고르기 + 무료 컴프레서 추천  
+## 2. 컴프레서 고르기 + 무료 컴프레서 추천  
 
 VST 2.0에 호환 가능하고 쓸만한 무료 컴프레서 몇가지를 골라보자면, TDR Kotelnikov, TDR Molotok, Klanghelm DC1A, Analog Obsession LALA, Analog Obsession Fetish 등이 있습니다.  
 Analog Obsession 제품들은 이제 업데이트 되어 VST 2.0 지원이 중단되었지만, 예전 버전의 설치 파일 링크는 살아있으니 다운로드 받아서 사용하실 수 있습니다.  
 
-### AO - LALA  
+* LALA : [Mac](https://analogobsession.com/wp-content/uploads/2021/04/LALA_2.1.pkg) / [Win](https://analogobsession.com/wp-content/uploads/2021/04/LALA_2.1.exe)  
 
-[Mac](https://analogobsession.com/wp-content/uploads/2021/04/LALA_2.1.pkg)  
-
-[Win](https://analogobsession.com/wp-content/uploads/2021/04/LALA_2.1.exe)  
-
-### AO - Fetish  
-
-[Mac](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.pkg)  
-
-[Win](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)  
+* Fetish : [Mac](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.pkg) / [Win](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)  
 
 Analog Obsession 말고도 플러그인을 설치할 때, 설치하는 위치를 정확히 지정해주어야 OBS가 인식할 수 있습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/LALA_Install_path.png){: .align-center .half-width}  
+
+이와 같이, 'C:/Program Files/Steinberg/Vstplugins' 경로를 꼭 확인합시다.  
 
 이 외, 윈도우 유저라면 TLS 1295 LEA Compressor, VOS ThrillseekerLA 등도 있습니다.  
 
@@ -78,11 +52,35 @@ Gain / Output을 조정해 볼륨을 조절하면 됩니다.
 
 컴프레서에 대한 설명은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/how-to-setup-compressor-simple/)에 정리해두었습니다.  
 
+## 3. OBS 트랙 만들기  
+
+우선 낮은 레이턴시를 위해 OBS ASIO[(다운로드 페이지)](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
+관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/why-use-OBS-ASIO/)에 정리해두었습니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_0.png){: .align-center .half-width}  
+
+사용에 앞서, 기존에 사용하던 OBS 자체 마이크 입력 캡쳐는 OBS의 설정에 들어가 비활성화 처리하여 꺼줍니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_1.png){: .align-center .half-width}  
+
+이제 ASIO 입력 캡쳐 트랙을 하나 추가해줍니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_2.png){: .align-center .half-width}  
+
+이름은 쉽게 파악할 수 있도록 지어줍니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-18/003.png){: .align-center .half-width}  
+
+Device로 사용하는 오인페를 선택합니다.  
+Format은 리버브와 다르게 모노로 설정합니다.  
+Channel에 오인페 입력 중 어느쪽인지 설정합니다.  
+대부분의 오인페 마이크 입력은 1번이 기본입니다.  
+
 ## 4. 컴프레서 적용하고 세팅하기  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_3.png){: .align-center .half-width}  
 
-트랙의 필터에 들어가 VST 2.x를 하나 추가합니다.  
+만든 트랙의 필터에 들어가 VST 2.x를 하나 추가합니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_4.png){: .align-center .half-width}  
 
