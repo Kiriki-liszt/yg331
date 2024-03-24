@@ -14,6 +14,7 @@ tags:
 ## 개요  
 
 이 글은 컴프레서가 무엇인지, 구조를 이해하고 적용해보는 간단한 예시를 정리한 것입니다.  
+더 자세한 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/how-to-setup-compressor-full/)에 정리해두었습니다.  
 
 ## 컴프레서가 뭘까  
 
