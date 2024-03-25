@@ -50,12 +50,12 @@ Gain / Output을 조정해 볼륨을 조절하면 됩니다.
 
 만약 '보컬에 대해 실패할 수 없는 컴프레서' 하나를 고르자면 Analog Obsession LALA입니다.  
 
-컴프레서에 대한 설명은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/how-to-setup-compressor-simple/)에 정리해두었습니다.  
+컴프레서에 대한 설명은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/plugin/how-to-setup-compressor-simple/)에 정리해두었습니다.  
 
 ## 3. OBS 트랙 만들기  
 
 우선 낮은 레이턴시를 위해 OBS ASIO[(다운로드 페이지)](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
-관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/production/why-use-OBS-ASIO/)에 정리해두었습니다.  
+관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/obs/why-use-OBS-ASIO/)에 정리해두었습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_0.png){: .align-center .half-width}  
 
