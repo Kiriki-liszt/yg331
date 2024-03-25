@@ -4,7 +4,7 @@ excerpt: "플러그인에 대한 개론"
 date:  2024-03-16 00:12:05 +0900
 
 categories:
-  - Production
+  - Plugin
 
 tags:
   - VST

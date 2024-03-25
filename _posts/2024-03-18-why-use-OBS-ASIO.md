@@ -4,7 +4,7 @@ excerpt: "기본 '오디오 입력 캡쳐'는 'ASIO 입력 캡쳐'보다 레이�
 date:  2024-03-18 00:12:05 +0900
 
 categories:
-  - Production
+  - OBS
 
 tags:
   - VST

@@ -11,7 +11,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-#docs:
+docs:
+- title: OBS 세팅하기
+  url: /categories/OBS/
 #  - title: VST
 #    url: /categories/VST/
 #  - title: "music-tech"
