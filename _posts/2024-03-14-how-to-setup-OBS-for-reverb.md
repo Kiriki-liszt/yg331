@@ -104,6 +104,8 @@ Native Access의 Preference에 가서 File Management - VST location (64bit)을 
 
 Type에 따라 인상이 많이 변하기 때문에 한번씩 바꿔보시고, 리버브 Tail이 너무 길지 않게 3초 언저리로 세팅했습니다.  
 
+또한, OBS를 끄고 켤 때 Mix가 초기화하는 현상을 막기 위해 MIX 오른쪽 위의 자물쇠를 켜서 설정을 잠금해둡시다.  
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-14/010.png){: width="1086px "}{: .align-center .half-width}  
 
 이제 OBS의 기본 화면에서 리버브의 볼륨을 조정하고, 스피커 아이콘을 클릭해 리버브를 켜고 끌 수 있습니다.  
