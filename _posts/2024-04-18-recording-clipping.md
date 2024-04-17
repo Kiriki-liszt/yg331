@@ -61,3 +61,11 @@ iZotope RX를 사용해 다음과 같이 파형을 복구해볼 수 있지만, �
 이런 후처리(포스트 프로세싱) 과정은 어쩔 수 없이 원 음질의 손상을 가져옵니다.  
 복구할 수 없는 부분도 있구요.  
 그러므로 처음부터 깔끔하게 받는것이 제일 중요합니다.  
+
+## 읽을거리  
+
+보컬 녹음에 도움이 될만한 자료가 있어 첨부합니다.  
+
+[보컬 마이킹 1편 - ON AXIS / OFF AXIS](https://sionkimmusic.com/article/?mod=document&uid=41&pageid=1)  
+[보컬 마이킹 2편 - 보컬과 마이크의 거리](https://sionkimmusic.com/article/?mod=document&uid=42&pageid=1)  
+[보컬 마이킹 3편 - 녹음 부스에서 마이크와 보컬의 위치](https://sionkimmusic.com/article/?mod=document&uid=43&pageid=1)  
