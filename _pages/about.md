@@ -29,11 +29,13 @@ Vocal Editors
 :   Synchro Arts VocALign
 
 VST plugins
-:   Tokyo Dawn Labs
 :   Sonnox
 :   UAD spark
+:   Tokyo Dawn Labs
+:   Metric Halo
 :   FabFilter
 :   SoundToys
+:   Softube
 :   iZotope
 :   Waves
 :   Plugin Alliance
