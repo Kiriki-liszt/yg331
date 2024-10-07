@@ -65,16 +65,16 @@ AT2020같은 싼 마이크들은 백 일렛트릿이라고 하는 타입의 캡�
 딱 필요한 만큼만 있는 느낌으로 EQ로 만졌을 때 잘 받아주는 느낌은 있었다.  
 
 ![STC-20]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_STC20.png){: .align-center .half-width}  
-STC-20  
+STC-20의 주파수 그래프.  
 
 ![NT1, NT1A]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_NT1_NT1A.png){: .align-center .half-width}  
-NT1, NT1A  
+NT1, NT1A의 주파수 그래프.  
 
 ![C-414]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_C414.png){: .align-center .half-width}  
-C414  
+C414의 주파수 그래프.  
 
-![AT4040]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_AT404.png){: .align-center .half-width}  
-AT4040  
+![AT4040]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_AT4040.png){: .align-center .half-width}  
+AT4040의 주파수 그래프.  
 
 실제 믹스에서라면 적정 거리에서 녹음하고, 3~4kHz만 조금 제어해주면 그대로 쓸 수 있을 것 같다.  
 이 부분에서 더 장점인 것이, 쇽마운트에 팝필터가 고정되어 있기 때문에 적정 거리를 유지하기에 아주 편리하다.  
@@ -89,7 +89,7 @@ AT4040
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/STC-20_vs_LA-220_smooth.png){: .align-center .half-width}  
 
 ![LA-220]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-07/FR_LA220.png){: .align-center .half-width}  
-LA-220  
+LA-220의 주파수 그래프.  
 
 당장 가지고 있는 컨덴서 마이크가 라우텐 오디오의 LA-220밖에 없어 이를 기준으로 비교해보았다.  
 FabFilter Pro-Q 3 의 EQ Match 기능으로 둘을 맞춰보면, 역시 중-고역대에 걸쳐 밝아지는 모습을 보인다.  
