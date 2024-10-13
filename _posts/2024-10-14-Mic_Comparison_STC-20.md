@@ -23,41 +23,41 @@ tags:
 
 ### 녹음한 그대로 비교  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/Mic_sm58.mp3" type="audio/mp3">
-</video>
+</audio>
 SHURE sm58  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/Mic_LA220.mp3" type="audio/mp3">
-</video>
+</audio>
 Lauten Audio LA220  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/Mic_AT4040.mp3" type="audio/mp3">
-</video>
+</audio>
 Audio Technica AT4040  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/Mic_C3000.mp3" type="audio/mp3">
-</video>
+</audio>
 AKG C3000  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/Mic_STC-20.mp3" type="audio/mp3">
-</video>
+</audio>
 Sontronics STC-20  
 
 ### + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/sm58_noEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 SHURE sm58 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/LA220_noEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Lauten Audio LA220 + Inst  
 
 <video controls="" name="media">
@@ -65,50 +65,50 @@ Lauten Audio LA220 + Inst
 </video>
 Audio Technica AT4040 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/C3000_noEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 AKG C3000 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/STC-20_noEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Sontronics STC-20 + Inst  
 
 ### 후처리 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/sm58_with_sameEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 SHURE sm58 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/LA220_with_sameEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Lauten Audio LA220 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/AT4040_with_sameEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Audio Technica AT4040 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/C3000_with_sameEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 AKG C3000 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/STC-20_with_sameEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Sontronics STC-20 + Inst  
 
 ### sm58에 Fresh Air 및 EQ Match  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/sm58_wtf.png){: .align-center .half-width}  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/sm58_with_FreshAirEqMatch.mp3" type="audio/mp3">
-</video>
+</audio>
 SHURE sm58 + Inst + Fresh Air + EQ Match  
 
 ## 결론  
