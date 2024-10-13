@@ -12,14 +12,14 @@ tags:
 
 ## 마이크 비교하기  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/IMG_8004.jpg){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/IMG_8004.jpg){: .align-center}  
 
 가지고 있는 마이크들과 새로 구한 STC-20을 비교해보았습니다.  
 비교하는 마이크들은 SHURE sm58, Lauten Audio LA220, AKG C3000, Audio Technica AT4040입니다.  
 
 대상곡은 Miiro님의 SHOUT OUT! (Feat. 새빛) 입니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/Cubase_Screenshot.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/Cubase_Screenshot.png){: .align-center}  
 
 ### 녹음한 그대로 비교  
 
