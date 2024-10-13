@@ -24,58 +24,90 @@ tags:
 ### 녹음한 그대로 비교  
 
 SHURE sm58  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/Mic_sm58.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/Mic_sm58.mp3" type="audio/mp3">
+</video>
 
 Lauten Audio LA220  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/Mic_LA220.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/Mic_LA220.mp3" type="audio/mp3">
+</video>
 
 Audio Technica AT4040  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/Mic_AT4040.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/Mic_AT4040.mp3" type="audio/mp3">
+</video>
 
 AKG C3000  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/Mic_C3000.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/Mic_C3000.mp3" type="audio/mp3">
+</video>
 
 Sontronics STC-20  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/Mic_STC-20.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/Mic_STC-20.mp3" type="audio/mp3">
+</video>
 
 ### + Inst  
 
 SHURE sm58 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/sm58_noEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/sm58_noEffect.mp3" type="audio/mp3">
+</video>
 
 Lauten Audio LA220 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/LA220_noEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/LA220_noEffect.mp3" type="audio/mp3">
+</video>
 
 Audio Technica AT4040 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/AT4040_noEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/AT4040_noEffect.mp3" type="audio/mp3">
+</video>
 
 AKG C3000 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/C3000_noEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/C3000_noEffect.mp3" type="audio/mp3">
+</video>
 
 Sontronics STC-20 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/STC-20_noEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/STC-20_noEffect.mp3" type="audio/mp3">
+</video>
 
 ### 후처리 + Inst  
 
 SHURE sm58 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/sm58_with_sameEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/sm58_with_sameEffect.mp3" type="audio/mp3">
+</video>
 
 Lauten Audio LA220 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/LA220_with_sameEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/LA220_with_sameEffect.mp3" type="audio/mp3">
+</video>
 
 Audio Technica AT4040 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/AT4040_with_sameEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/AT4040_with_sameEffect.mp3" type="audio/mp3">
+</video>
 
 AKG C3000 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/C3000_with_sameEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/C3000_with_sameEffect.mp3" type="audio/mp3">
+</video>
 
 Sontronics STC-20 + Inst  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/STC-20_with_sameEffect.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/STC-20_with_sameEffect.mp3" type="audio/mp3">
+</video>
 
 ### sm58에 Fresh Air 및 EQ Match  
 
 SHURE sm58 + Inst + Fresh Air + EQ Match  
-![]({{ site.url }}{{ site.baseurl }}/assets/audio/2024-10-14/sm58_with_FreshAirEqMatch.mp3)  
+<video controls="" autoplay="" name="media">
+    <source src="/assets/audio/2024-10-14/sm58_with_FreshAirEqMatch.mp3" type="audio/mp3">
+</video>
 
 ## 결론  
 
