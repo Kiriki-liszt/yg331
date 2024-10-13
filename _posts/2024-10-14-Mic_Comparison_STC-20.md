@@ -18,6 +18,7 @@ tags:
 비교하는 마이크들은 SHURE sm58, Lauten Audio LA220, AKG C3000, Audio Technica AT4040입니다.  
 
 대상곡은 Miiro님의 SHOUT OUT! (Feat. 새빛) 입니다.  
+음정은 손보았으나, 박자는 녹음된 그대로입니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-14/Cubase_Screenshot.png){: .align-center}  
 
@@ -60,9 +61,9 @@ SHURE sm58 + Inst
 </audio>
 Lauten Audio LA220 + Inst  
 
-<video controls="" name="media">
+<audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-10-14/AT4040_noEffect.mp3" type="audio/mp3">
-</video>
+</audio>
 Audio Technica AT4040 + Inst  
 
 <audio controls="" name="media">
