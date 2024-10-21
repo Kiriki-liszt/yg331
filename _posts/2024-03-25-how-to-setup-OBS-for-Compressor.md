@@ -32,9 +32,7 @@ Analog Obsession 제품들은 이제 업데이트 되어 VST 2.0 지원이 중�
 
 Analog Obsession 말고도 플러그인을 설치할 때, 설치하는 위치를 정확히 지정해주어야 OBS가 인식할 수 있습니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/LALA_Install_path.png){: .align-center .half-width}  
-
-이와 같이, 'C:/Program Files/Steinberg/Vstplugins' 경로를 꼭 확인합시다.  
+'C:/Program Files/Steinberg/Vstplugins' 경로를 꼭 확인합시다.  
 
 이 외, 윈도우 유저라면 TLS 1295 LEA Compressor, VOS ThrillseekerLA 등도 있습니다.  
 
