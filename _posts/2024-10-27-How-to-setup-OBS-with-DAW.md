@@ -32,7 +32,7 @@ DAW는 REAPER v7.26, OBS 버전 30.2.3, obs-asio v3.2.1f을 사용하였습니�
 
 I Want This! -> 가격 $0.00 입력 -> 이메일 입력 -> Download now! -> 받은 메일에서 링크를 통해 다운로드  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_theme_install.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_theme_install_.png){: .align-center}  
 
 파일의 압축을 풀고 각자의 운영체제에 맞는 폴더로 가서 Reapertips Theme.ReaperThemeZip를 더블클릭해 스킨을 적용합니다.  
 
