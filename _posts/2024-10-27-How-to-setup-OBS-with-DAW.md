@@ -110,13 +110,13 @@ I Want This! -> 가격 $0.00 입력 -> 이메일 입력 -> Download now! -> 받�
 
 상단바의 Options -> preferences로 들어가 환경 설정창을 엽니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_option_screen_2.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_option_screen_2_.png){: .align-center}  
 
 우선은 Audio 페이지를 찾아 엽니다.  
 맨 위에 있는 체크박스, Close audio device when ~~~ 옵션을 꺼줍니다.  
 우하단의 Apply를 눌러 설정을 저장하고 다음 페이지로 넘어갑니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_option_screen_3.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_option_screen_3_.png){: .align-center}  
 
 이어서 Audio -> device에서 Audio를 ASIO로 설정합니다.  
 바로 밑에서 Asio Driver를 사용하는 오디오 인터페이스를 선택합니다.  
