@@ -57,6 +57,7 @@ I Want This! -> 가격 $0.00 입력 -> 이메일 입력 -> Download now! -> 받�
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/VST_plugins_install.png){: .align-center}  
 
 파일의 압축을 풀고, .vst3 파일을 C:\Program Files\Common Files\VST3 폴더로 옮겨줍니다.  
+정리하는 취향에 따라 VST3 폴더 아래애 새로운 폴더를 만들고, 그 안에 절리해도 됩니다.  
 
 #### EFX  
 
