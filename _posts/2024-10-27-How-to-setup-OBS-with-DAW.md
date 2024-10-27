@@ -269,7 +269,7 @@ Reverb 트랙의 FX 창을 열어 OldSkoolVerb를 추가합니다.
 
 불러온 직후, 우상단의 DRY MUTE를 켜서 오직 리버브 소리만 들리게 합니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_Reverb_6.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_Reverb_6_.png){: .align-center}  
 
 이제 좌상단의 Preset에 들어가 하나씩 들어보며 비교합니다.  
 제일 무난하게 두루두루 어울리는 쪽은 warm hall, nice hall을 추천합니다.  
