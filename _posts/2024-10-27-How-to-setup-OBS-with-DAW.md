@@ -48,7 +48,7 @@ I Want This! -> 가격 $0.00 입력 -> 이메일 입력 -> Download now! -> 받�
 
 [https://github.com/Kiriki-liszt/JS_Inflator](https://github.com/Kiriki-liszt/JS_Inflator)  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/VST_plugins_homepage.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/VST_plugins_homepage_.png){: .align-center}  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/VST_plugins_download.png){: .align-center}  
 
