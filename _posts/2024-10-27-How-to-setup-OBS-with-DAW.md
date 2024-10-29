@@ -211,7 +211,7 @@ PreOpen은 레이턴시와 직결되므로, 1ms보다 넘지 않도록 꼭 주�
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_EQ_setting.png){: .align-center}  
 
 다음으로 Relief EQ를 추가합니다.  
-베이직한 보컬 EQ 세팅은 HighPass 60Hz 18dB/oct, Bell 220Hz 2.1Q -2.5dB, Bell 470Hz 1.7Q -1.5dB, Bell 4000Hz 2.1Q -2dB, High Shelf 16000Hz 5dB.  
+베이직한 보컬 EQ 세팅은 HighPass 60Hz 18dB/oct, Bell 220Hz 2.1Q -2.5dB, Bell 470Hz 1.7Q -1.5dB, Bell 4000Hz 2.1Q -2dB, High Shelf 16000Hz 4.5dB.  
 여기에서 취향에 따라 저음을 덜 줄이거나, 고음을 덜 키우거나 할 수 있습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Comp_setting.png){: .align-center}  
