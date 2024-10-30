@@ -24,6 +24,9 @@ DAW는 REAPER v7.26, OBS 버전 30.2.3, obs-asio v3.2.1f을 사용하였습니�
 혹은 하드웨어 컴프레서를 거쳐야 하는데 EQ가 없다, 할 때 씁니다.  
 잘 확인해서 잘 꺼둡시다.  
 
+참고하면 좋을 글  
+[https://kiriki-liszt.github.io/yg331/daw/recording-clipping/](https://kiriki-liszt.github.io/yg331/daw/recording-clipping/)  
+
 ## DAW 세팅하기  
 
 ### REAPER 설치, 스킨 적용  
