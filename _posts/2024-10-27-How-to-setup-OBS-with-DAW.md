@@ -94,7 +94,10 @@ I Want This! -> 가격 $0.00 입력 -> 이메일 입력 -> Download now! -> 받�
 
 #### Reverb  
 
-리버브 플러그인은 Voxengo의 OldSkoolVerb를 사용합니다.  
+리버브는 취향을 많이 타기 때문에, 본인이 원하는 사운드가 있다면 그 소리를 내는 리버브를 사용하시면 됩니다.  
+
+하지만 그냥 제일 무난하고 어디에도 잘 붙는 스타일을 원하신다면, 대부분 부드러운 톤의 Hall 타입입니다.  
+이 글에서는 그 예시로 Voxengo의 OldSkoolVerb를 사용합니다.  
 제일 정석적이고 부드러운 성향입니다.  
 
 [https://www.voxengo.com/product/oldskoolverb](https://www.voxengo.com/product/oldskoolverb)  
