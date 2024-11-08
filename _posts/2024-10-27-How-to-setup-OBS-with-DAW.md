@@ -235,13 +235,19 @@ PreOpen은 레이턴시와 직결되므로, 1ms보다 넘지 않도록 꼭 주�
 베이직한 보컬 EQ 세팅은 HighPass 60Hz 18dB/oct, Bell 220Hz 2.1Q -2.5dB, Bell 470Hz 1.7Q -1.5dB, Bell 4000Hz 2.1Q -2dB, High Shelf 16000Hz 4.5dB.  
 여기에서 취향에 따라 저음을 덜 줄이거나, 고음을 덜 키우거나 할 수 있습니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Comp_setting.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Comp_1_setting.png){: .align-center}  
 
-Relief Compressor를 추가해 메인 보컬 컴프레서로 사용합니다.  
-이 또한 안전한 세팅으로 Attack 6ms, Release 100ms, Ratio 4, Knee 20dB으로 설정하고, Threshold를 조정해 조곤조곤 말할 때는 Gain Reduction이 반응하지 않게, 신나서 말할 때 -3~4dB, 크게 노래부를 때 -5~7dB 정도 걸리게 합니다.  
-오인페 입력 조정이 잘 이루어졌다면, 보통 -18dB +-3dB 정도의 Threshold값이 나오게 됩니다.  
+Relief Compressor를 추가해 첫 번째 보컬 컴프레서로 사용합니다.  
+최대한 가볍게 Attack 10ms, Release 120ms, Ratio 2, Knee 20dB으로 설정하고, Threshold를 조정해 조곤조곤 말할 때는 Gain Reduction이 반응하지 않게, 신나서 이야기할 때 -3 ~ -5dB 정도 걸리게 합니다.  
+오인페 입력 조정이 잘 이루어졌다면, 보통 -20dB +-3dB 정도의 Threshold값이 나오게 됩니다.  
 조정 결과 더 큰 Threshold(ex -6dB)가 나온다면 오인페 입력이 매우 크니, 줄여주시기 바랍니다.  
 더 작다면 플러그인의 Input을 올려서 적정 범위 안에 들어오게 합니다.  
+Makeup Gain은 2dB 정도 올려줍니다.  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Comp_2_setting.png){: .align-center}  
+
+Relief Compressor를 추가해 두 번째 보컬 컴프레서로 사용합니다.  
+이는 조금 더 빡빡하게 Attack 6ms, Release 100ms, Ratio 4, Knee 5dB으로 설정하고, Threshold를 조정해 평소 말할 때와 적당히 노래할 때는 Gain Reduction이 반응하지 않게, 노래의 하이라이트를 부를 때 만 -3 ~ -5dB 정도 걸리게 합니다.  
 Makeup Gain은 4dB 정도 올려줍니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Deesser_sidechain_eq.png){: .align-center}  
