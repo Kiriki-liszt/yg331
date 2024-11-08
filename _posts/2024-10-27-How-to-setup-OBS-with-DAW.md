@@ -334,7 +334,7 @@ Reverb 트랙의 FX 창을 열어 OldSkoolVerb를 추가합니다.
 Add new Hardware output -> ReaRoute 1 / 2 를 골라 1번 2번 두 트랙으로 나가는 출력을 추가합니다.  
 이 ReaRoute 1/2가 왼쪽 오른쪽 트랙이 되어 OBS로 들어가게 됩니다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_Master_out_2_.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_Master_out_2__.png){: .align-center}  
 
 여기서 OBS로 가는 소리의 크기 말고, 본인의 오인페 출력의 소리 크기를 설정할 수 있습니다.  
 기존에 추가되어 있는 하드웨어 출력의 슬라이더를 움직여 크기를 조절할 수 있습니다.  
