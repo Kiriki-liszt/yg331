@@ -304,7 +304,7 @@ Reverb 트랙의 FX 창을 열어 Magic7 리버브를 추가합니다.
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/Magic7-2.png){: .align-center}  
 
 불러온 직후, 우하단의 mix를 시계방향 끝까지 돌려 오직 리버브 소리만 들리게 합니다.  
-그렇지 않으면 리버브를 켰을 때 원래 마이크 소리까지 더해벼 볼륨이 두 배가 됩니다.  
+그렇지 않으면 리버브를 켰을 때 원래 마이크 소리까지 더해져 볼륨이 두 배가 됩니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/Magic7-3.png){: .align-center}  
 
