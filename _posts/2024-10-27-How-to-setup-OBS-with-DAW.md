@@ -265,7 +265,7 @@ Makeup Gain은 4dB 정도 올려줍니다.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Deesser_setting.png){: .align-center}  
 
-다시 COMPRESSOR탭으로 돌아와 Attack 3ms, Release 20ms, Ration 20, Knee 0dB로 세팅 후 Threshold를 조정해 ㅅ, ㅆ, ㅊ, ㅉ 등의 치찰음들을 -3~6dB 정도 Gain Reduction이 일어나도록 합니다.  
+다시 COMPRESSOR탭으로 돌아와 Attack 3ms, Release 20ms, Ration 20, Knee 5dB로 세팅 후 Threshold를 조정해 ㅅ, ㅆ, ㅊ, ㅉ 등의 치찰음들을 -3~6dB 정도 Gain Reduction이 일어나도록 합니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/FX_Inflator_setting.png){: .align-center}  
 
