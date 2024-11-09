@@ -17,7 +17,7 @@ tags:
 [https://www.wavealchemy.co.uk/product/magic7/](https://www.wavealchemy.co.uk/product/magic7/)  
 
 11월 8일 wave alchemy사의 새로운 리버브 플러그인인 Magic7이 무료로 출시되었습니다.  
-이는 Bricasti M7 하드웨어 리버브에 기반한 플러그인으로, Hall, Ambience, Room 등 실제 공간의 사실적인 표현에 강하지만 Plate도 동일한 퀄리티를 보여주는 다용도 리버브입니다.  
+이는 Bricasti M7 하드웨어 리버브에 기반한 플러그인으로, 사실적이고 자연스러운 리버브를 재현합니다.  
 이러한 특징으로 피아노와 관현악 등 클래식에 강하지만, 자연스러운 공간감을 강조하기 원하는 보컬에도 아주 적합합니다.  
 
 ### 설치하기  
