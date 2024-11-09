@@ -129,11 +129,15 @@ Magic7은 Hall - Amsterdam Hall 세팅으로 두고, 다른 플러그인들과 �
 
 ### Magic7 - Amsterdam Hall  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/Magic7-Hall.png){: .align-center}  
+
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_Magic7_-_Hall.mp3" type="audio/mp3">
 </audio>
 
 ### ReLab LX480 - Random Hall  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/LX480.png){: .align-center}  
 
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_LX480.mp3" type="audio/mp3">
@@ -141,17 +145,23 @@ Magic7은 Hall - Amsterdam Hall 세팅으로 두고, 다른 플러그인들과 �
 
 ### LiquidSonics Seventh Heaven - Large Hall  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/Seventh-Heaven.png){: .align-center}  
+
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_Seventh_Heaven.mp3" type="audio/mp3">
 </audio>
 
 ### PSP Audio 2445 - Plate  
 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/PSP-2445.png){: .align-center}  
+
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_2445.mp3" type="audio/mp3">
 </audio>
 
 #### Voxengo OldSkoolVerb - Warm Hall  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/OldSkoolVerb.png){: .align-center}  
 
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_OldSkoolVerb.mp3" type="audio/mp3">
