@@ -137,7 +137,7 @@ Magic7은 Hall - Amsterdam Hall 세팅으로 두고, 다른 플러그인들과 �
 
 ### ReLab LX480 - Random Hall  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/LX480.png){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/LX480.png){: .align-center .half-width}  
 
 <audio controls="" name="media">
     <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_LX480.mp3" type="audio/mp3">
@@ -156,7 +156,7 @@ Magic7은 Hall - Amsterdam Hall 세팅으로 두고, 다른 플러그인들과 �
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-11-09/PSP-2445.png){: .align-center}  
 
 <audio controls="" name="media">
-    <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_2445.mp3" type="audio/mp3">
+    <source src="/yg331/assets/audio/2024-11-09/Reverb_Compare_-_PSP_2445.mp3" type="audio/mp3">
 </audio>
 
 #### Voxengo OldSkoolVerb - Warm Hall  
