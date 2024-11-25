@@ -4,7 +4,7 @@ excerpt: "오인페, 마이크, 플러그인, 세팅에 대한 개론"
 date:  2024-03-12 00:12:05 +0900
 
 categories:
-  - OBS
+  - Setup
 
 tags:
   - VST
