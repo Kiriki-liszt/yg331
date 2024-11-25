@@ -53,7 +53,7 @@ Gain / Output을 조정해 볼륨을 조절하면 됩니다.
 ## 3. OBS 트랙 만들기  
 
 우선 낮은 레이턴시를 위해 OBS ASIO[(다운로드 페이지)](https://github.com/Andersama/obs-asio/releases/latest)를 사용하는 마이크 트랙을 만듭니다.  
-관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/obs/why-use-OBS-ASIO/)에 정리해두었습니다.  
+관련 내용은 다음 [블로그 링크](https://kiriki-liszt.github.io/yg331/setup/why-use-OBS-ASIO/)에 정리해두었습니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-03-25/OBS_0.png){: .align-center .half-width}  
 
