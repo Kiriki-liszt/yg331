@@ -21,8 +21,8 @@ DAW는 REAPER v7.26, OBS 버전 30.2.3, obs-asio v3.2.1f을 사용하였습니�
 
 마이크에 로우컷이나 -10dB Pad가 들어가있을 수 있습니다.  
 이는 드럼이나 기타 앰프, 관악기 등 고음압, 저역대가 과한 음원에 주로 사용하는 것으로 보컬에서는 잘 쓰지 않습니다.  
-혹은 하드웨어 컴프레서를 거쳐야 하는데 EQ가 없다, 할 때 씁니다.  
 
+혹은 로우컷 스위치가 있어 하드웨어 컴프레서를 거쳐야 하는데 EQ가 없다, 할 때 씁니다.  
 제조사마다 다른데, 500Hz까지 영향을 받기 때문에 보컬 마이크에서 사용하기에는 명확한 의도가 있을 때만 사용합니다.  
 잘 확인해서 잘 꺼둡시다.  
 
@@ -36,12 +36,19 @@ DAW는 REAPER v7.26, OBS 버전 30.2.3, obs-asio v3.2.1f을 사용하였습니�
 
 ## DAW 세팅하기  
 
-### REAPER 설치, 스킨 적용  
+### REAPER 설치  
 
 가장 최신의 REAPER를 설치해줍니다.  
+
+[https://www.reaper.fm/download.php](https://www.reaper.fm/download.php)  
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_download.png){: .align-center}  
+
 설치 시, 세부 옵션에서 ReaRoute가 선택되어 있는지 확인합니다.  
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-10-27/REAPER_install_options.png){: .align-center}  
+
+### REAPER에 적용할 스킨  
 
 기본 스킨은 아쉬우니 기본에서 벗어나지 않고 가독성을 늘려주는 스킨인 ReaperTips를 설치합니다.  
 
