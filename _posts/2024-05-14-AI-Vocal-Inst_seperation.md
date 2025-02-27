@@ -55,9 +55,7 @@ Separation 탭에서 설정을 입력한다.
 우선, 사용할 음원의 경로를 입력한다.  
 이는 좌측의 폴더 아이콘을 눌러 전체 폴더 구조를 볼 수 있으므로, 여기에서 파일을 찾아가 좌클릭 -> 파일 경로 복사하여 쉽게 복붙할 수 있다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/011.png){: .align-center .half-width}  
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/012.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/b.png){: .align-center .half-width}  
 
 다음으로 출력 파일의 경로를 입력한다.  
 기본은 구글 드라이브에 'output' 폴더가 생겨 그 안에 저장된다.  
@@ -70,7 +68,7 @@ Separation 탭에서 설정을 입력한다.
 output_format은 분리한 음원의 파일 형식으로, 셋 다 상관 없지만 개인적인 취향으로 Float를 사용한다.  
 filter_vocals_below_50hz 옵션을 켜면 보컬에서 사용하지 않았을 50Hz 영역을 제거하여 더 깔끔한 보컬과 저음이 조금 더 살아있는 Inst를 얻을 수 있다.  
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/014.png){: .align-center .half-width}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/c.png){: .align-center .half-width}  
 
 Model config는 AI의 세부 설정을 조정하는 곳이다.  
 위쪽에 About settings에 설명이 적혀 있어 참고할 수 있다.  
