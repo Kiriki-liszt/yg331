@@ -19,7 +19,7 @@ AI를 사용해 음원의 Vocal과 Inst(MR)을 분리해보자.
 
 ## 1. MDX23 AI 알고리즘을 구동하는 Colab 페이지 접속  
 
-[https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.4/MVSep-MDX23-Colab.ipynb](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.4/MVSep-MDX23-Colab.ipynb)
+[https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.5/MVSep-MDX23-Colab.ipynb](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.5/MVSep-MDX23-Colab.ipynb)
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/post_images/2024-05-14/01.png){: .align-center .half-width}  
 
